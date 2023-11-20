@@ -1,0 +1,14 @@
+.box{
+    width: 1249px;
+    height: 376px;
+    background-color: rgba(34, 244, 218, 1);
+    margin-top: 73px;
+    margin: auto;
+    border-radius: 30px;
+    justify-content: center;
+}
+.box h2{
+display: flex;
+justify-content: center;
+padding-top: 30px;
+}
